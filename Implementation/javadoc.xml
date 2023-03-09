@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -tag assert.pre:a:&quot;Precondition:&quot;&#10;-encoding UTF-8&#10;-charset UTF-8&#10;-docencoding UTF-8" author="true" classpath="src/tarjetamonedero:/opt/eclipse/plugins/org.junit_4.12.0.v201504281640/junit.jar:/opt/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="Practica1" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
